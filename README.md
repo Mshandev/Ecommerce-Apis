@@ -4,7 +4,7 @@ This repository hosts the source code for a feature-rich eCommerce application b
 
 ## Demo
 
-- Live Preview: [https://blog-apis-nestjs.onrender.com/](https://blog-apis-nestjs.onrender.com/)
+- Live Preview: [https://ecommerce-apis-nestjs.onrender.com](https://ecommerce-apis-nestjs.onrender.com)
 
 ## Features
 
